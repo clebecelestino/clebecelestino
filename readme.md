@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm < Clebe Celestino /> </h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-Hello, my name is Clebe. I'm a software engineer who works with Backend development. I have a degree in computational physics. I enjoy reading, writing, and programming. And of course, creating software that is simple yet impactful.
+Hello, my name is Clebe. I'm a software engineer who works with Backend development. I have a degree in System analysis and development, I enjoy reading, writing, and programming. And of course, creating software that is simple yet impactful.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clebecelestino&label=Profile%20views&color=0e75b6&style=flat" alt="Clebe Celestino" /> </p>
 
